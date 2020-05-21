@@ -27,3 +27,13 @@ def output_array(array)
   end
 end
 
+def return_string_array(array)
+  counter = 0
+
+while counter < array.length do
+  new_array = array[counter].to_s
+  puts new_array
+  counter += 1 
+  end
+end
+
