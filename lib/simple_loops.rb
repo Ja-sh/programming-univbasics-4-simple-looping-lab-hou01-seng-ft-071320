@@ -17,4 +17,12 @@ while counter  < message.length do
   counter += 1 
   end
 end
+
+def output_array(message, n)
+  counter = 0
   
+  while counter < message.length do
+    puts message
+    counter += 1 
+  end
+end
