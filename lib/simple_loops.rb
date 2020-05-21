@@ -8,9 +8,5 @@ while counter < message.length do
   end
 end
 
-def loop_message_n_times(message)
-  counter = 0
-  
-  while counter 
-  
+https://www.youtube.com/watch?v=YIFwo6lKDhI&t=1834s
   
