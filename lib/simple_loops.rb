@@ -18,7 +18,7 @@ while counter  < message.length do
   end
 end
 
-def output_array(message, n)
+def output_array (message, n)
   counter = 0
   
   while counter < message.length do
